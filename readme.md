@@ -1,6 +1,6 @@
 # Olá, eu sou Carlos Junior
 <p> 🎓 | Student:  Front-end developer </p>
-<p> 🌴 | Years old: 16 </p>
+<p> 🌴 | Years old: 17y </p>
 <p> 🌐 | From: Brazil </p>
 <p> 🔧 | Project's
 
