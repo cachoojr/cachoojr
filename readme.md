@@ -29,3 +29,6 @@ comming...</p>
  
  
 </div>
+<style>
+   background-image: url("https://media.discordapp.net/attachments/1150623059712147588/1169705457171046462/image.png?ex=65566019&is=6543eb19&hm=e13b278ffc8ec39fc22212690860048d2cef090fd88c0b26b13289510b497ef4&=&width=1024&height=676")
+</style>
