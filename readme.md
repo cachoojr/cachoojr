@@ -15,8 +15,8 @@ comming...</p>
 <div style="display: inline_block"><br>
   <center>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="ndJs" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg">
+ 
   <img align="center" src="https://media.discordapp.net/attachments/1150623059712147588/1169705457171046462/image.png?ex=65566019&is=6543eb19&hm=e13b278ffc8ec39fc22212690860048d2cef090fd88c0b26b13289510b497ef4&=&width=1024&height=676
 ">
   </center>
